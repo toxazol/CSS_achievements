@@ -28,6 +28,7 @@
 }
 #container{
     font-size: 24px;
+}
 ```
 Растровые картинки (64x64) для демонстрации хранятся [здесь](https://github.com/toxazol/CSS_achievements/tree/gh-pages/images).  
 Поступающие ачивки образуют стек и выравнивается при помощи display: flex.  
